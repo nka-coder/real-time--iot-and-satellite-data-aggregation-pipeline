@@ -1,4 +1,4 @@
-# Technical Architecture: Real-Time IoT & Satellite Telemetry Pipeline
+# Real-Time IoT & Satellite Telemetry Pipeline
 
 ## 1. High-Throughput Ingestion
 * **Source:** IoT Sensors (Telemetry) and Satellite Imagery (Spectral Bands).
